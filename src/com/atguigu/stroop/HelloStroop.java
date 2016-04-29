@@ -7,5 +7,6 @@ public class HelloStroop {
 		System.out.println("update 01");
 		System.out.println("update 02");
 		System.out.println("update 03");
+		System.out.println("update 04");
 	}
 }
