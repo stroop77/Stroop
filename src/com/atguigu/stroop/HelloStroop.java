@@ -9,5 +9,6 @@ public class HelloStroop {
 		System.out.println("update 03");
 		System.out.println("update 04");
 		System.out.println("response 01");
+		System.put.println("response 02");
 	}
 }
